@@ -1,0 +1,4 @@
+#!/bin/bash
+
+find . -type f -print0 | xarg -0 unix2dos
+
