@@ -32,6 +32,8 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 typedef enum {NOT_WHITESPACE, WHITESPACE, TOKEN_AVAILABLE, LINE_DONE, FILE_DONE, PARSED_OKAY} tokenstat;
 typedef enum {NOSEG, DATASEG, TEXTSEG} segtype;
 
+#define inline Inline
+
 int		tokennum;
 int		inline, outline;
 

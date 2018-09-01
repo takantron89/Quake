@@ -1,0 +1,7 @@
+﻿  qwfwd.c
+c:\users\demian\desktop\quake\qw\qwfwd\qwfwd.c(150): warning C4996: '__sys_errlist': This function or variable may be unsafe. Consider using strerror instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(224): note: see declaration of '__sys_errlist'
+c:\users\demian\desktop\quake\qw\qwfwd\qwfwd.c(157): warning C4996: '__sys_errlist': This function or variable may be unsafe. Consider using strerror instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(224): note: see declaration of '__sys_errlist'
+qwfwd.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  qwfwd.vcxproj -> C:\Users\Demian\Desktop\Quake\QW\qwfwd\.\Debug\QWFwd.exe

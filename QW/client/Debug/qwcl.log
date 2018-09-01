@@ -1,0 +1,154 @@
+﻿  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_draw.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_draw.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_draw16.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_draw16.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_parta.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_parta.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_polysa.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_polysa.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_scana.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_scana.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_spr8.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_spr8.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_varsa.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_varsa.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  math.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\math.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_aclipa.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_aclipa.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_aliasa.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_aliasa.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_drawa.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_drawa.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_edgea.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_edgea.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_varsa.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_varsa.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  snd_mixa.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\snd_mixa.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  surf16.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\surf16.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  surf8.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\surf8.asm
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26726 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  sys_wina.s
+  Microsoft (R) Macro Assembler Version 14.15.26726.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\sys_wina.asm
+LINK : fatal error LNK1104: cannot open file '.\Debug\\.obj'
