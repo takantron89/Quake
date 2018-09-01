@@ -1,15 +1,1 @@
-﻿  gas2masm.c
-c:\users\demian\desktop\quake\qw\gas2masm\gas2masm.c(118): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
-c:\users\demian\desktop\quake\qw\gas2masm\gas2masm.c(218): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
-c:\users\demian\desktop\quake\qw\gas2masm\gas2masm.c(248): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(579): note: see declaration of 'strnicmp'
-c:\users\demian\desktop\quake\qw\gas2masm\gas2masm.c(251): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
-c:\users\demian\desktop\quake\qw\gas2masm\gas2masm.c(552): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
-c:\users\demian\desktop\quake\qw\gas2masm\gas2masm.c(930): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
-gas2masm.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  gas2masm.vcxproj -> C:\Users\Demian\Desktop\Quake\QW\gas2masm\.\Debug\gas2masm.exe
+﻿
